@@ -11,19 +11,19 @@ Days Since Last Transaction: The number of days since the customer's last transa
 
 # Approach
 
-**1.Data Import and Cleaning**
+* **1.Data Import and Cleaning**
 Data Import: Load the dataset containing customer transaction and coupon usage data.
 Data Cleaning: Address missing values, remove duplicates, and handle any inconsistencies in the data.
-**2.Exploratory Data Analysis (EDA)**
+* **2.Exploratory Data Analysis (EDA)**
 Data Exploration: Analyze the distribution and summary statistics of the features.
 Visualization: Create visualizations to understand relationships between variables and identify patterns.
 Correlation Analysis: Investigate correlations between features and the target variable.
-**3.Data Preprocessing**
+* **3.Data Preprocessing**
 Cleaned the dataset by handling missing values and outliers.
 Encoded categorical variables and normalized numerical features.
-**4.Feature Selection**
+* **4.Feature Selection**
 Identified and selected relevant features that contribute to the prediction of customer behavior.
-**5.Model Training and Evaluation**
+* **5.Model Training and Evaluation**
 Applied various machine learning models to classify customer segments.
 Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
 
