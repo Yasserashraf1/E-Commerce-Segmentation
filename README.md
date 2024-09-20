@@ -27,7 +27,7 @@ Identified and selected relevant features that contribute to the prediction of c
 Applied various machine learning models to classify customer segments.
 Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
 
-# 6.Customer Behavior Summary:
+# Customer Behavior Summary:
 **Cluster 0**
 * Average Transaction Count: 7.685398230088496
 * Average Coupon Usage: 4.280973451327434
@@ -41,7 +41,7 @@ Evaluated model performance using metrics such as accuracy, precision, recall, a
 * Average Coupon Usage: 1.6781534460338101
 * Average Days Since Last Transaction: 197.32119635890768
 
-# 7.Recommendations
+# Recommendations
 **Cluster 0**
 * High-frequency, high-transaction customers with frequent coupon usage.
 * Offer loyalty discounts or exclusive high-value coupons.
