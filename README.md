@@ -33,25 +33,25 @@ The dataset contains the following features:
 
 # Customer Behavior Summary:
 * **Cluster 0**
- * Average Transaction Count: 7.685398230088496
- * Average Coupon Usage: 4.280973451327434
- * Average Days Since Last Transaction: 281.98362831858407
+  * Average Transaction Count: 7.685398230088496
+  * Average Coupon Usage: 4.280973451327434
+  * Average Days Since Last Transaction: 281.98362831858407
 * **Cluster 1**
- * Average Transaction Count: 5.032228360957642
- * Average Coupon Usage: 2.3213627992633517
- * Average Days Since Last Transaction: 655.1629834254144
+  * Average Transaction Count: 5.032228360957642
+  * Average Coupon Usage: 2.3213627992633517
+  * Average Days Since Last Transaction: 655.1629834254144
 * **Cluster 2**
- * Average Transaction Count: 4.357607282184655
- * Average Coupon Usage: 1.6781534460338101
- * Average Days Since Last Transaction: 197.32119635890768
+  * Average Transaction Count: 4.357607282184655
+  * Average Coupon Usage: 1.6781534460338101
+  * Average Days Since Last Transaction: 197.32119635890768
 
 # Recommendations
 * **Cluster 0**
- * High-frequency, high-transaction customers with frequent coupon usage.
- * Offer loyalty discounts or exclusive high-value coupons.
+  * High-frequency, high-transaction customers with frequent coupon usage.
+  * Offer loyalty discounts or exclusive high-value coupons.
 * **Cluster 1**
- * Low-frequency customers with smaller transactions and moderate coupon usage.
- * Provide time-limited offers or discounts to encourage more frequent transactions.
+  * Low-frequency customers with smaller transactions and moderate coupon usage.
+  * Provide time-limited offers or discounts to encourage more frequent transactions.
 * **Cluster 2**
- * Customers with fewer coupon usages and irregular shopping patterns.
- * Provide introductory or higher-value coupons to incentivize coupon usage and increase engagement.
+  * Customers with fewer coupon usages and irregular shopping patterns.
+  * Provide introductory or higher-value coupons to incentivize coupon usage and increase engagement.
