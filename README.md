@@ -22,7 +22,8 @@ The dataset contains the following features:
   * Cleaned the dataset by handling missing values and outliers.
   * Encoded categorical variables and normalized numerical features.
 * **4.Feature Selection**
-   Identified and selected relevant features that contribute to the prediction of customer behavior.
+  * Identified and selected relevant features that contribute to the prediction of customer behavior.
+  * Focused on key variables like transaction count, coupon usage, and days since the last transaction to enhance segmentation accuracy.
 * **5.Model Training and Evaluation**
   * Applied various machine learning models, including:
     * *K-means*: A partitioning method that clusters data into K distinct groups based on feature similarity.
