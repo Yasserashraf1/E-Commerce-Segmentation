@@ -12,8 +12,8 @@ The dataset contains the following features:
 # Approach
 
 * **1.Data Import and Cleaning**
-* Data Import: Load the dataset containing customer transaction and coupon usage data.
-* Data Cleaning: Address missing values, remove duplicates, and handle any inconsistencies in the data.
+  * Data Import: Load the dataset containing customer transaction and coupon usage data.
+  * Data Cleaning: Address missing values, remove duplicates, and handle any inconsistencies in the data.
 * **2.Exploratory Data Analysis (EDA)**
 * Data Exploration: Analyze the distribution and summary statistics of the features.
 * Visualization: Create visualizations to understand relationships between variables and identify patterns.
