@@ -15,21 +15,21 @@ The dataset contains the following features:
   * Data Import: Load the dataset containing customer transaction and coupon usage data.
   * Data Cleaning: Address missing values, remove duplicates, and handle any inconsistencies in the data.
 * **2.Exploratory Data Analysis (EDA)**
- * Data Exploration: Analyze the distribution and summary statistics of the features.
- * Visualization: Create visualizations to understand relationships between variables and identify patterns.
- * Correlation Analysis: Investigate correlations between features and the target variable.
+  * Data Exploration: Analyze the distribution and summary statistics of the features.
+  * Visualization: Create visualizations to understand relationships between variables and identify patterns.
+  * Correlation Analysis: Investigate correlations between features and the target variable.
 * **3.Data Preprocessing**
- * Cleaned the dataset by handling missing values and outliers.
- * Encoded categorical variables and normalized numerical features.
+  * Cleaned the dataset by handling missing values and outliers.
+  * Encoded categorical variables and normalized numerical features.
 * **4.Feature Selection**
-Identified and selected relevant features that contribute to the prediction of customer behavior.
+   Identified and selected relevant features that contribute to the prediction of customer behavior.
 * **5.Model Training and Evaluation**
- * Applied various machine learning models, including:
-  * *K-means*: A partitioning method that clusters data into K distinct groups based on feature similarity.
-  * *Hierarchical Clustering*: A method that builds a hierarchy of clusters, allowing for the visualization of data at multiple levels of granularity.
-  * *DBSCAN*: A density-based clustering algorithm that identifies clusters based on the density of data points, useful for detecting noise and outliers.
+  * Applied various machine learning models, including:
+    * *K-means*: A partitioning method that clusters data into K distinct groups based on feature similarity.
+    * *Hierarchical Clustering*: A method that builds a hierarchy of clusters, allowing for the visualization of data at multiple levels of granularity.
+    * *DBSCAN*: A density-based clustering algorithm that identifies clusters based on the density of data points, useful for detecting noise and outliers.
    
-* Model Evaluation: Used metrics such as inertia and silhouette score to assess clustering performance and determine the optimal number of clusters.
+  * Model Evaluation: Used metrics such as inertia and silhouette score to assess clustering performance and determine the optimal number of clusters.
 
 # Customer Behavior Summary:
 * **Cluster 0**
