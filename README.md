@@ -24,8 +24,12 @@ Encoded categorical variables and normalized numerical features.
 * **4.Feature Selection**
 Identified and selected relevant features that contribute to the prediction of customer behavior.
 * **5.Model Training and Evaluation**
-Applied various machine learning models to classify customer segments.
-Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.
+Applied various machine learning models, including:
+*   *K-means*: A partitioning method that clusters data into K distinct groups based on feature similarity.
+*   *Hierarchical Clustering*: A method that builds a hierarchy of clusters, allowing for the visualization of data at multiple levels of granularity.
+*   *DBSCAN*: A density-based clustering algorithm that identifies clusters based on the density of data points, useful for detecting noise and outliers.
+
+* Model Evaluation: Used metrics such as inertia and silhouette score to assess clustering performance and determine the optimal number of clusters.
 
 # Customer Behavior Summary:
 * **Cluster 0**
